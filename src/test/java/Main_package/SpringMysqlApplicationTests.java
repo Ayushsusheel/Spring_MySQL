@@ -9,6 +9,7 @@ class SpringMysqlApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+
 	
 
 }
